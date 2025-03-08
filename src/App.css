@@ -1,4 +1,3 @@
- /* Flip the icon from left to right on hover */
 .group:hover .flip-once {
     animation: flipOnce 0.7s linear;
   }
