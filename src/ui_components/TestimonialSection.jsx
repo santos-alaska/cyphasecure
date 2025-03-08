@@ -1,5 +1,5 @@
 import testimonial_img_1 from '../assets/testimonial_img_1.jpg'
-import testimonial_img_2 from '../assets/testimonial_img_2.jpg'
+// import testimonial_img_2 from '../assets/testimonial_img_2.jpg'
 import testimonial_img_3 from '../assets/testimonial_img_3.jpg'
 import { FaStar } from 'react-icons/fa';
 
@@ -17,7 +17,7 @@ const testimonials = [
     role: 'IT Manager',
     text: "Cyphanet's cyber security services have given us peace of mind. We can now focus on our business without worrying about data breaches.",
     rating: 4,
-    image: testimonial_img_2,
+    // image: testimonial_img_2,
   },
   {
     name: 'David John',
