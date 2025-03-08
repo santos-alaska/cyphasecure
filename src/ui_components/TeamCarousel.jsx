@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import front_end from '../assets/front_end.png'
 import ceo from '../assets/ceo.png'
-// import digital_marketer from '../assets/digital_marketer.jpg'
+import digital_marketer from '../assets/digital_marketer.jpg'
 import technical_manager from '../assets/technical_manager.png'
 
 const TeamCarousel = () => {
@@ -24,7 +24,7 @@ const TeamCarousel = () => {
       id: 3,
       name: 'Ayodele Precious',
       role: 'Digital Marketer',
-      // image: digital_marketer
+      image: digital_marketer
     },
     {
       id: 4,

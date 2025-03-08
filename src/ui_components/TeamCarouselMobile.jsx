@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import front_end from '../assets/front_end.png';
 import ceo from '../assets/ceo.png';
-import digital_marketer from '../assets/digital_marketer.jpg';
+// import digital_marketer from '../assets/digital_marketer.jpg';
 import technical_manager from '../assets/technical_manager.png';
 
 const TeamCarouselMobile = () => {
@@ -13,7 +13,7 @@ const TeamCarouselMobile = () => {
         { id: 1, name: 'Akeredolu Kolawole', role: 'Chief Executive Officer', image: ceo },
         { id: 2, name: 'Webe Blessing', role: 'Frontend Engineer', image: front_end },
         { id: 3, name: 'Ayodele Precious', role: 'Digital Marketer', 
-            image: digital_marketer 
+            // image: digital_marketer 
         },
         { id: 4, name: 'Akeredolu Tosin', role: 'Technical Project Manager', image: technical_manager },
     ];
