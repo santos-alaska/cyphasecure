@@ -1,0 +1,17 @@
+ /* Flip the icon from left to right on hover */
+.group:hover .flip-once {
+    animation: flipOnce 0.7s linear;
+  }
+  
+  @keyframes flipOnce {
+    0% {
+      transform: rotateY(0deg);
+    }
+    50% {
+      transform: rotateY(180deg);
+    }
+    100% {
+      transform: rotateY(0deg);
+    }
+  }
+  
