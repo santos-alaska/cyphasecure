@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import front_end from '../assets/front_end.png';
 import ceo from '../assets/ceo.png';
-// import digital_marketer from '../assets/digital_marketer.jpg';
 import technical_manager from '../assets/technical_manager.png';
 
 const TeamCarouselMobile = () => {
