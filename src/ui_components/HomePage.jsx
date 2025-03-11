@@ -21,8 +21,8 @@ const HomePage = () => {
             <WhoAreWe />
             <OurServices />
             <WhyChooseUs />
-            <TeamCarousel />
-            <TeamCarouselMobile />
+            {/* <TeamCarousel /> */}
+            {/* <TeamCarouselMobile /> */}
             <Faq />
             <TestimonialSection />
             <ContactSection />
