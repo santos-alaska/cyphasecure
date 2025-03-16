@@ -19,10 +19,10 @@ const ContactSection = () => {
 
     emailjs
       .sendForm(
-        "service_xptmuoc",
-        "template_3ihtgvo",
+        "service_qci9nyi",
+        "template_1js7gpb",
         formRef.current,
-        "bWG7y99VjqYK8giT_"
+        "mwJrGYJCyXIa_pvmr"
       )
       .then(
         (result) => {
