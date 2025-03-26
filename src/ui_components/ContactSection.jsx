@@ -18,11 +18,7 @@ const ContactSection = () => {
     setIsSending(true); // start the spinner
 
     emailjs
-      // .sendForm(
-      //   "service_xptmuoc",
-      //   "template_3ihtgvo",
-      //   formRef.current,
-      //   "bWG7y99VjqYK8giT_"
+    
       .sendForm(
         "service_qci9nyi",
         "template_1js7gpb",

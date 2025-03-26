@@ -8,6 +8,7 @@ import Services from './pages/Services'
 import ContactUs from './pages/ContactUs'
 import ScrollToTop from './ScrollToTop'
 // import Prac from './ui_components/prac'
+
 import "./App.css"
 const App = () => {
   return (
@@ -21,7 +22,6 @@ const App = () => {
         <Route path="/contact" element={<ContactUs />} />
       </Routes>
       <Footer />
-      {/* <Prac /> */}
     </div>
   )
 }

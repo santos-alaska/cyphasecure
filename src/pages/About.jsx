@@ -4,7 +4,6 @@ import { FaCheck } from 'react-icons/fa';
 import { accordionData } from '../constants/constants'
 import React from 'react'
 import AboutPageOurValues from '@/ui_components/AboutPageOurValues';
-import TeamCarousel from '@/ui_components/TeamCarousel';
 import TestimonialSection from '@/ui_components/TestimonialSection';
 import ServicesSection from '@/ui_components/ServicesSection';
 import data_background from '../assets/data_background.png'
@@ -87,8 +86,6 @@ const About = () => {
                 </div>
             </div>
             <AboutPageOurValues />
-            {/* <ServicesSection /> */}
-            <TeamCarousel />
             <TestimonialSection />
 
         </div>
