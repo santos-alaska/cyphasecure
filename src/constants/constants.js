@@ -7,7 +7,7 @@ export const accordionData = [
     {
         id: 2,
         title: 'Our Story',
-        content: 'Cyphanet was founded 10 years ago by Akerelodu Kolawale, driven by a vision to secure the digital landscape. From humble beginnings, our founder recognized the escalating challenges of cyber threats and embarked on a mission to develop innovative, reliable cybersecurity solutions. Over the years, Cyphanet has grown into a trusted name in the industry, continually evolving to meet the demands of a rapidly changing digital world. Our journey is one of passion, innovation, and an unwavering commitment to protecting your digital future.',
+        content: 'Cyphanet was founded 10 years ago by Kolawole Akeredolu, driven by a vision to secure the digital landscape. From humble beginnings, our founder recognized the escalating challenges of cyber threats and embarked on a mission to develop innovative, reliable cybersecurity solutions. Over the years, Cyphanet has grown into a trusted name in the industry, continually evolving to meet the demands of a rapidly changing digital world. Our journey is one of passion, innovation, and an unwavering commitment to protecting your digital future.',
     },
     {
       id: 3,
