@@ -35,7 +35,7 @@ const ContactUs = () => {
           </div>
           <h2 className="text-lg font-semibold mb-2">Mail Us</h2>
           <p className="text-gray-600">
-            Cyphanetglobalconcept@gmail.com
+            info@cyphasecure.com
 
 
           </p>

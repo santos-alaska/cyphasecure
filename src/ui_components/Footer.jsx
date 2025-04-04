@@ -25,9 +25,9 @@ const Footer = () => {
                             Canada
                         </p>
                         <p className="text-[15px] mb-2">
-                            Cyphanetglobalconcept@gmail.com <br />
+                            Info@cyphasecure.com<br />
                         </p>
-                       
+
                     </div>
 
                     {/* 3. Solution */}
