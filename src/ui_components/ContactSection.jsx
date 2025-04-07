@@ -70,7 +70,7 @@ const ContactSection = () => {
                 <div className="space-y-3">
                   <div className="flex items-center gap-2">
                     <FaEnvelope />
-                    <span>Cyphanetglobalconcept@gmail.com</span>
+                    <span>Info@cyphasecure.com</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <FaMapMarkerAlt />
